@@ -1,0 +1,9 @@
+.foodList {
+    display: flex;
+}
+
+.container {
+    border: solid 1px red;
+    margin: 4px;
+    padding: 4px;
+}
