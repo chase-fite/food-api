@@ -6,4 +6,5 @@
     border: solid 1px red;
     margin: 4px;
     padding: 4px;
+    flex-basis: 22%;
 }
